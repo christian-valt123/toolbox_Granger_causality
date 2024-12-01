@@ -1,4 +1,18 @@
-                    GNU GENERAL PUBLIC LICENSE
+The toolbox for computing source-based spectral Granger causality in sliding time windows is copyright, distributed under the GNU General Public License.
+
+This does not apply to any third-party software used by this software. These is subject to the original license they were first distributed under.
+
+The toolbox for computing source-based spectral Granger causality in sliding time windows is free software; you can distribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+For more details on “copyleft”, see https://www.gnu.org/copyleft/
+
+The toolbox for computing source-based spectral Granger causality in sliding time windows is supplied as is: No formal support or maintenance is provided or implied.
+
+
+
+
+
+
+GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
